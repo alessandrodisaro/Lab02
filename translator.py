@@ -4,14 +4,16 @@ class Translator:
         pass
 
     def printMenu(self):
-        # 1. Aggiungi nuova parola
-        # 2. Cerca una traduzione
-        # 3. Cerca con wildcard
-        # 4. Exit
+        print("1. Aggiungi una parola\n") # 1. Aggiungi nuova parola
+        print("2. Cerca una tarduzione\n")# 2. Cerca una traduzione
+        print("3. Cerca una wildcard\n")# 3. Cerca con wildcard
+        print("4. Stampa tutto il dizionario\n")# 4. Stampa tutto il dizionario
+        print("5. Exit")# 5. Exit
         pass
 
     def loadDictionary(self, dict):
         # dict is a string with the filename of the dictionary
+
         pass
 
     def handleAdd(self, entry):
@@ -20,6 +22,8 @@ class Translator:
 
     def handleTranslate(self, query):
         # query is a string <parola_aliena>
+
+
         pass
 
     def handleWildCard(self,query):
