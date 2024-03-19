@@ -1,6 +1,6 @@
-import translator as tr
+import translator as Translator
 
-t = tr.Translator()
+t = Translator()
 vivo=True
 while (vivo):
 

@@ -3,8 +3,6 @@ class Dictionary:
         self.dictionary = dictionary  # passo il nome del file da usare come dizionario
         self.diz={}# creo il dizionario vuoto
     def mappaDizionario(self):
-
-
         with open(self.dictionary, "r") as file:
             for riga in file:
                 parts = riga.split()
@@ -12,7 +10,7 @@ class Dictionary:
         #print(self.diz)         #per test
 
 
-    def addWord(self, parolaItaliana, parolaAliena):
+    def addWord(self, parolaAliena, parolaItaliana):
         italiano_lower = parolaItaliana.lower()  # li metto entrambi in lower case
         alieno_lower = parolaAliena.lower()
 
