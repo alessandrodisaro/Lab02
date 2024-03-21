@@ -108,5 +108,3 @@ sanomalehti giornale
 kynä penna
 paperi carta
 kynÄ panna
-orco porco
-orco cane
