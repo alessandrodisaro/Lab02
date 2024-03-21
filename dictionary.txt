@@ -1,4 +1,5 @@
 kissa gatto
+kizsa getto
 koira cane
 hevonen cavallo
 ehmä mucca
@@ -106,3 +107,6 @@ lehti rivista
 sanomalehti giornale
 kynä penna
 paperi carta
+kynÄ panna
+orco porco
+orco cane
